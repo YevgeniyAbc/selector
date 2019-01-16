@@ -1,0 +1,3 @@
+export const SET_SINGLE_MODE = 'SET_SINGLE_MODE';
+export const SET_MULTI_MODE = 'SET_MULTI_MODE';
+export const SELECT_TRUCKS = 'SELECT_TRUCKS';
